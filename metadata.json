@@ -1,0 +1,7 @@
+{
+  "name": "Miaoli 1/30 Journey Planner",
+  "description": "A high-end, responsive travel itinerary application designed specifically for a Miaoli day trip, featuring a timeline view, route optimization, and alternative options based on travel proximity.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
